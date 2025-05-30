@@ -1,8 +1,9 @@
 # Site settings
-title: My Cyberpunk Vault
-description: A whimsical cyberpunk twist on my Obsidian notes
-url: "https://<your-username>.github.io"
-baseurl: "/<your-repo-name>"  # leave empty ("") if publishing from the root domain
+title: CÆTHERPUNK
+description: Welcome to the world of **CÆTHERPUNK 5E**—where neon, chrome, digital gods, and mind-bending powers shape reality in a city that never sleeps.
+
+url: "https://reldirpg.github.io/CAETHERPUNK/"
+baseurl: "/CAETHERPUNK"  # leave empty ("") if publishing from the root domain
 
 # Theme
 remote_theme: ziinahzoor/cybersynth-theme  
@@ -18,8 +19,6 @@ kramdown:
 # adjust to match your folder structure
 nav:
   - Home: index.md
-  - Projects: projects.md
-  - Notes: notes/index.md
 
 # Exclude Obsidian-specific junk
 exclude:
