@@ -1,11 +1,11 @@
-## index
+# index
 **CÆTHERPUNK 5E Supplement**
 _(Draft v1.0 — Core Rules)_
 
 ---
 
 
-# 1. Introduction & Setting Primer
+## 1. Introduction & Setting Primer
 
 ## 1. Introduction & Setting Primer
 
@@ -26,7 +26,7 @@ In this game, you are an **Operator**: a renegade Netrunner, psychic outcast, ch
 ___
 
 
-# 2. Ability Scores & Skills
+## 2. Ability Scores & Skills
 
 ## 2. Ability Scores & Skills
 
@@ -73,7 +73,7 @@ _Standard Point Buy: 78 points to distribute (8–18), max 2 at 18, only 1 may b
 
 ---
 
-# 3. Species & Subspecies
+## 3. Species & Subspecies
 
 ## 3. Species & Subspecies
 
@@ -158,7 +158,7 @@ _For each new campaign, the GM may allow further variants, gene-modding, or synt
 
 ---
 
-# 4. Backgrounds
+## 4. Backgrounds
 
 ## 4. Backgrounds
 
@@ -218,7 +218,7 @@ To create your own background:
 
 
 
-# 5. Classes
+## 5. Classes
 
 ## 5. Classes
 
@@ -251,7 +251,7 @@ Each class has its own file for complete rules, advancement tables, features, an
 
 
 
-# 5. Classes\Aethebo
+## 5. Classes\Aethebo
 
 ## Aethebo
 
@@ -365,7 +365,7 @@ At 3rd level, choose a Digital Divinity (domain). Each grants unique miracles an
 
 
 
-# 5. Classes\Aethebo\Aetherbo Subclasses
+## 5. Classes\Aethebo\Aetherbo Subclasses
 
 ## Aetherbo Subclasses
 
@@ -569,7 +569,7 @@ _End of 04e1-Domain-Circuit.html_
 
 
 
-# 5. Classes\Aetherite
+## 5. Classes\Aetherite
 
 ## Aetherite
 
@@ -683,7 +683,7 @@ At 3rd level, choose a Digital Divinity (domain). Each grants unique miracles an
 
 
 
-# 5. Classes\Aetherite\Aetherite Subclasses
+## 5. Classes\Aetherite\Aetherite Subclasses
 
 ## Aetherite Subclasses
 
@@ -841,7 +841,7 @@ _End of 04e3-Domain-Viral-Plague.html_
 
 
 
-# 5. Classes\Artificer
+## 5. Classes\Artificer
 
 ## Artificer Datastream Routines
 
@@ -1017,7 +1017,7 @@ You become a living conduit for the Current or aetheric code. You can upload one
 
 
 
-# 5. Classes\Artificer\Artificer Subclasses
+## 5. Classes\Artificer\Artificer Subclasses
 
 ## Bioengineer
 
@@ -1160,7 +1160,7 @@ _Masters of the Current, Grid Sages are techno-mages who blend coding, ritual, a
 
 
 
-# 5. Classes\Biohacker
+## 5. Classes\Biohacker
 
 ## Biohacker Aetheric Disciplines
 
@@ -1364,7 +1364,7 @@ At 3rd level, choose a Biopath. Each offers a unique set of biotech miracles and
 
 
 
-# 5. Classes\Biohacker\Biohacker Subclasses
+## 5. Classes\Biohacker\Biohacker Subclasses
 
 ## Biohacker Subclasses
 
@@ -1542,7 +1542,7 @@ _End of 04b1-Nano-Symbiote.html_
 
 
 
-# 5. Classes\Chrome Berserker
+## 5. Classes\Chrome Berserker
 
 ## Chrome Berserker Aetheric Disciplines
 
@@ -1588,7 +1588,7 @@ _End of 04b1-Nano-Symbiote.html_
 
 ## Chrome Berserker
 
-# Cyberpunk/Ætherpunk 5E Player’s Handbook
+## Cyberpunk/Ætherpunk 5E Player’s Handbook
 
 ## Chrome Berserker
 
@@ -1701,7 +1701,7 @@ At 3rd level, choose a Primal Path. Each shapes your upgrades, rages, and role o
 
 
 
-# 5. Classes\Chrome Berserker\Chrome Berserker Subclasses
+## 5. Classes\Chrome Berserker\Chrome Berserker Subclasses
 
 ## Chrome Berserker Subclasses
 
@@ -1878,7 +1878,7 @@ At 3rd level, choose a Primal Path. Each shapes your upgrades, rages, and role o
 
 
 
-# 5. Classes\Circuit Adept
+## 5. Classes\Circuit Adept
 
 ## Circuit Adept Aetheric Disciplines
 
@@ -1965,7 +1965,7 @@ At 3rd level, choose a Primal Path. Each shapes your upgrades, rages, and role o
 
 
 
-# 5. Classes\Circuit Adept\Circuit Adept Subclasses
+## 5. Classes\Circuit Adept\Circuit Adept Subclasses
 
 ## Circuit Adept Subclasses
 
@@ -2124,7 +2124,7 @@ _End of 04b2-Mutagenist.html_
 
 
 
-# 5. Classes\Currentborn
+## 5. Classes\Currentborn
 
 ## Currentborn Aetheric Disciplines
 
@@ -2211,7 +2211,7 @@ _End of 04b2-Mutagenist.html_
 
 
 
-# 5. Classes\Currentborn\Currentborn Subclasses
+## 5. Classes\Currentborn\Currentborn Subclasses
 
 ## Chrome Ronin
 
@@ -2370,7 +2370,7 @@ _End of 04b3-Eco-Hacker.html_
 
 
 
-# 5. Classes\Fixer
+## 5. Classes\Fixer
 
 ## Fixer Aetheric Disciplines
 
@@ -2457,7 +2457,7 @@ _End of 04b3-Eco-Hacker.html_
 
 
 
-# 5. Classes\Fixer\Fixer Subclasses
+## 5. Classes\Fixer\Fixer Subclasses
 
 ## Chrome Ronin
 
@@ -2616,7 +2616,7 @@ _End of 04b3-Eco-Hacker.html_
 
 
 
-# 5. Classes\Lawbringer
+## 5. Classes\Lawbringer
 
 ## Lawbringer Aetheric Disciplines
 
@@ -2703,7 +2703,7 @@ _End of 04b3-Eco-Hacker.html_
 
 
 
-# 5. Classes\Lawbringer\Lawbringer Subclasses
+## 5. Classes\Lawbringer\Lawbringer Subclasses
 
 ## Lawbringer Subclasses
 
@@ -2910,7 +2910,7 @@ _End of 04b1-Nano-Symbiote.html_
 
 
 
-# 5. Classes\Netrunner
+## 5. Classes\Netrunner
 
 ## Netrunner Aetheric Disciplines
 
@@ -2997,7 +2997,7 @@ _End of 04b1-Nano-Symbiote.html_
 
 
 
-# 5. Classes\Netrunner\Netrunner Subclasses
+## 5. Classes\Netrunner\Netrunner Subclasses
 
 ## Black Hat
 
@@ -3156,7 +3156,7 @@ At 3rd level, choose a Biopath. Each offers a unique set of biotech miracles and
 
 
 
-# 5. Classes\Pactwright
+## 5. Classes\Pactwright
 
 ## Pactwright Aetheric Disciplines
 
@@ -3243,7 +3243,7 @@ At 3rd level, choose a Biopath. Each offers a unique set of biotech miracles and
 
 
 
-# 5. Classes\Pactwright\Pactwright Subclasses
+## 5. Classes\Pactwright\Pactwright Subclasses
 
 ## Chrome Ronin
 
@@ -3402,7 +3402,7 @@ _End of 04b3-Eco-Hacker.html_
 
 
 
-# 5. Classes\Street Samurai
+## 5. Classes\Street Samurai
 
 ## Street Samurai Aetheric Disciplines
 
@@ -3654,7 +3654,7 @@ Reroll a failed saving throw, 1/rest (more at higher levels).
 ---
 
 
-# **Martial Techniques (Street Samurai)**
+## **Martial Techniques (Street Samurai)**
 
 _You start with 2 techniques at 1st level and learn more as you level (max 7 at 20th). Each use typically expends a Technique Die (d8, scaling up with level)._
 
@@ -3713,7 +3713,7 @@ _You start with 2 techniques at 1st level and learn more as you level (max 7 at 
 
 
 
-# 5. Classes\Street Samurai\Street Samurai Subclasses
+## 5. Classes\Street Samurai\Street Samurai Subclasses
 
 ## Blademaster
 
@@ -3951,7 +3951,7 @@ At 3rd level, choose a Biopath. Each offers a unique set of biotech miracles and
 
 
 
-# 5. Classes\Wetwork Specialist
+## 5. Classes\Wetwork Specialist
 
 ## Wetwork Specialist Aetheric Disciplines
 
@@ -4038,7 +4038,7 @@ At 3rd level, choose a Biopath. Each offers a unique set of biotech miracles and
 
 
 
-# 5. Classes\Wetwork Specialist\Wetwork Specialist Subclasses
+## 5. Classes\Wetwork Specialist\Wetwork Specialist Subclasses
 
 ## Drone Commander
 
@@ -4197,7 +4197,7 @@ At 3rd level, choose a Biopath. Each offers a unique set of biotech miracles and
 
 
 
-# 6. Feats
+## 6. Feats
 
 ## 6. Feats
 
@@ -4259,7 +4259,7 @@ _This list is not exhaustive; feel free to expand, reskin, or add feats to fit y
 
 ## Chrome Brawler
 
-# Feat: Chrome Brawler
+## Feat: Chrome Brawler
 
 **Prerequisite:** STR 13+
 
@@ -4279,7 +4279,7 @@ You’ve reinforced your body with cybernetic augmentation or biochrome—your f
 
 
 
-# 7. Aetheric Disciplines
+## 7. Aetheric Disciplines
 
 ## 7. Aetheric Disciplines
 
@@ -4325,7 +4325,7 @@ Each discipline lists its level, power type, short description, and the classes/
 
 
 
-# 8. Datastream Routines
+## 8. Datastream Routines
 
 ## 8. Datastream Routines
 
@@ -4357,7 +4357,7 @@ ___
 
 ## 8.1 Datastream Routines
 
-# Datastream Routines – Level 1
+## Datastream Routines – Level 1
 
 | Level | Name               | Type     | Description                                                                                  | Classes/Subclasses           |
 | ----- | ------------------ | -------- | -------------------------------------------------------------------------------------------- | ---------------------------- |
@@ -4394,7 +4394,7 @@ ___
 
 ## 8.2 Datastream Routines
 
-# Datastream Routines – Level 2
+## Datastream Routines – Level 2
 
 |Level|Name|Type|Description|Classes/Subclasses|
 |---|---|---|---|---|
@@ -4424,7 +4424,7 @@ ___
 
 ## 8.3 Datastream Routines
 
-# Datastream Routines – Level 3
+## Datastream Routines – Level 3
 
 |Level|Name|Type|Description|Classes/Subclasses|
 |---|---|---|---|---|
@@ -4452,7 +4452,7 @@ ___
 
 ## 8.4 Datastream Routines
 
-# Datastream Routines – Level 4
+## Datastream Routines – Level 4
 
 |Level|Name|Type|Description|Classes/Subclasses|
 |---|---|---|---|---|
@@ -4481,7 +4481,7 @@ ___
 
 ## 8.5 Datastream Routines
 
-# Datastream Routines – Level 5
+## Datastream Routines – Level 5
 
 |Level|Name|Type|Description|Classes/Subclasses|
 |---|---|---|---|---|
@@ -4511,7 +4511,7 @@ ___
 
 ## 8.6 Datastream Routines
 
-# Datastream Routines – Level 6
+## Datastream Routines – Level 6
 
 | Level | Name                  | Type     | Description                                                                    | Classes/Subclasses           |
 | ----- | --------------------- | -------- | ------------------------------------------------------------------------------ | ---------------------------- |
@@ -4541,13 +4541,13 @@ ___
 
 ## 8.7 Datastream Routines
 
-# Datastream Routines – Level 7
+## Datastream Routines – Level 7
 ___
 
 
 ## 8.8 Datastream Routines
 
-# Datastream Routines – Level 8
+## Datastream Routines – Level 8
 
 |Level|Name|Type|Description|Classes/Subclasses|
 |---|---|---|---|---|
@@ -4576,7 +4576,7 @@ ___
 
 ## 8.9 Datastream Routines
 
-# Datastream Routines – Level 9
+## Datastream Routines – Level 9
 
 |Level|Name|Type|Description|Classes/Subclasses|
 |---|---|---|---|---|
@@ -4598,7 +4598,7 @@ ___
 
 ---
 
-# 8. Datastream Routines\Basic Protocols
+## 8. Datastream Routines\Basic Protocols
 
 ## AR Display
 
@@ -4609,7 +4609,7 @@ ___
 
 ---
 
-# 9. Equipment & Gear
+## 9. Equipment & Gear
 
 ## 9. Equipment & Gear
 
@@ -4617,13 +4617,13 @@ ___
 
 ---
 
-# 10. Cybernetics & Augmentations
+## 10. Cybernetics & Augmentations
 
 ## 10. Cybernetics & Augmentations
 
 ___
 
-# 11. Vehicles & Drones
+## 11. Vehicles & Drones
 
 ## 11. Vehicles & Drones
 
@@ -4631,7 +4631,7 @@ ___
 ---
 
 
-# 12. Sample Lore
+## 12. Sample Lore
 
 ## 12. Sample Lore
 
@@ -4640,7 +4640,7 @@ ___
 #### [13. Appendices](../13.%20Appendices/13.%20Appendices.html)
 
 
-# 13. Appendices
+## 13. Appendices
 
 ## 13. Appendices
 
