@@ -5,7 +5,7 @@ _(Draft v1.0 — Core Rules)_
 
 ## Table of Contents
 
-[1. Introduction & Setting Primer](1.%20Introduction%20&%20Setting%20Primer/1.%20Introduction%20&%20Setting%20Primer.md)
+[1. Introduction & Setting Primer](1.%20Introduction%20&%20Setting%20Primer/1.%20Introduction%20&%20Setting%20Primer/)
 [2. Ability Scores & Skills](2.%20Ability%20Scores%20&%20Skills/2.%20Ability%20Scores%20&%20Skills.md)
 [3. Species & Subspecies](3.%20Species%20&%20Subspecies/3.%20Species%20&%20Subspecies.md)
 [4. Backgrounds](4.%20Backgrounds/4.%20Backgrounds.md)
