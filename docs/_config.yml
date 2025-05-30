@@ -1,0 +1,32 @@
+# Site settings
+title: CÆTHERPUNK
+description: Welcome to the world of **CÆTHERPUNK 5E**—where neon, chrome, digital gods, and mind-bending powers shape reality in a city that never sleeps.
+
+url: "https://reldirpg.github.io/CAETHERPUNK/"
+baseurl: "/CAETHERPUNK"  # leave empty ("") if publishing from the root domain
+
+# Theme
+remote_theme: ziinahzoor/cybersynth-theme  
+plugins:
+  - jekyll-remote-theme
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Navigation (if supported by the theme)
+# adjust to match your folder structure
+nav:
+  - Home: index.md
+
+# Exclude Obsidian-specific junk
+exclude:
+  - .obsidian
+  - .obsidian/**
+  - Gemfile
+  - Gemfile.lock
+
+# Include any asset folders you reference directly
+include:
+  - images
