@@ -217,6 +217,7 @@ Choose one of the following classes, then select your subclass at the appropriat
 | **Operator**               | Tactical specialist, covert field agent, high-tech mercenary | Recon Sniper, Saboteur, Drone Commander                                                                                              | Rogue/Fighter    |
 | **Currentborn (Sorcerer)** | Innate psionic/ae­theric prodigy, reality bender             | Aberrant Mind, Clockwork Soul, Divine Soul, Lunar Sorcerer, Shadow Magic, Storm Sorcerer, Wild Magic, Draconic Bloodline             | Sorcerer         |
 | **Lawbringer (Paladin)**   | Corporate enforcer, righteous arbiter, shield of justice     | Oath of Devotion, Oath of Vengeance, Oath of Redemption, Oath of the Ancients, Oath of Conquest, Oath of Glory, Oath of the Watchers | Paladin          |
+
 ---
 
 ## Æthercrafter Class Details
