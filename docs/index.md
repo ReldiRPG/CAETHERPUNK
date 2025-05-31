@@ -207,17 +207,20 @@ To create your own background:
 In Cætherpunk 5E, your class determines your core role, archetype, and how you shape the world through technology, aether, and the street. Each class includes advancement tables, core features, and unique subclasses to further customize your Operator.
 
 Choose one of the following classes, then select your subclass at the appropriate level (see class file for details).
-## Classes Overview Table
+### Classes Overview Table
 
-| Class (Archetype)          | Summary (Role/Theme)                                         | Subclasses                                                                                                                           | Closest 5E       |
-| -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------- |
-| **Aethercrafter**          | Nano-miracles, digital cults, protocol-driven mystics        | Circuit Adept, Datastream Savant, Viral Plague                                                                                       | Cleric           |
-| **Ripperdoc**              | Cybernetic surgeon, underground doc, biotech enhancer        | Medtech Specialist, Augment Symbiote, Nano Surgeon                                                                                   | Cleric/Artificer |
-| **Netrunner**              | Hacker, data-thief, digital subversion expert                | Exploit Architect, Firewall Ghost, Info Broker                                                                                       | Rogue/Wizard     |
-| **Operator**               | Tactical specialist, covert field agent, high-tech mercenary | Recon Sniper, Saboteur, Drone Commander                                                                                              | Rogue/Fighter    |
-| **Currentborn (Sorcerer)** | Innate psionic/ae­theric prodigy, reality bender             | Aberrant Mind, Clockwork Soul, Divine Soul, Lunar Sorcerer, Shadow Magic, Storm Sorcerer, Wild Magic, Draconic Bloodline             | Sorcerer         |
-| **Lawbringer (Paladin)**   | Corporate enforcer, righteous arbiter, shield of justice     | Oath of Devotion, Oath of Vengeance, Oath of Redemption, Oath of the Ancients, Oath of Conquest, Oath of Glory, Oath of the Watchers | Paladin          |
+| Class (Archetype) | Summary (Role/Theme)                                         | Subclasses                                                                                             |
+| ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| **Aethercrafter** | Nano-miracles, digital cults, protocol-driven mystics        | - Ætherchemist, Chromewright, Arc Launcher, Battle Automaton, Field Medic                              |
+| **Currentborn**   | Innate psionic/ae­theric prodigy, reality bender             | Aberrant Mind, Biotic Body                                                                             |
+| **Fixer**         | Social engineer, AR charisma, info hacks                     | Info Broker, Face, Shadow Runner                                                                       |
+| Netrunner         | Hacker, data-thief, digital subversion expert                | Data Weaver, Signal Ghost, Infiltrator                                                                 |
+| **Operator**      | Tactical specialist, covert field agent, high-tech mercenary | Augmented Berserker, Ghostblade Ninja,  Fire-Beast Sniper,  Corporate Assassin, Titanshot , Bio-Hacker |
+| **Ripperdoc**     | Cybernetic surgeon, underground doc, biotech enhancer        | Cybersurgeon, Nanite Specialist                                                                        |
 
+---
+
+Each class has its own file for complete rules, advancement tables, features, and subclass options. Begin your journey by opening your chosen class’s file.
 ---
 
 ## Æthercrafter Class Details
@@ -741,7 +744,7 @@ You add the following Manifestations to your known list; they do not count again
 
 ---
 
-### Biotic Kin Legacy
+### Biotic Body
 _1st-level Currentborn_  
 Your biotic gifts originate from clandestine biotech augmentation or an ancient engineered bloodline. You carry resonant neural fibers or nanobot implants woven into your very DNA, granting you physical psionic prowess.
 
@@ -790,7 +793,7 @@ When you cast a Manifestation from your **Psionic Spells** list, you can expend 
 _6th-level Currentborn - Aberrant Mind_
 You gain resistance to Psychic damage, and you have advantage on saving throws against being charmed or frightened.
 ### Elemental Bioweave
-_6th-level Currentborn - Biotic Kin_
+_6th-level Currentborn - Biotic Body_
 Your body weaves psionic nanofibers to absorb energy. Whenever you or an ally within 30 ft is targeted by a Manifestation or effect that deals damage of a type you are resistant to, you can use your reaction and spend 1 Psi Point to absorb up to 10 + Currentborn level damage (all taken by you). If the incoming damage exceeds that amount, you and the original target each take any excess. You can use this feature a number of times equal to your FOC modifier (minimum 1). You regain all uses when you finish a long rest.
 ### Revelation in Flesh
 _14th-level Currentborn - Aberrant Mind_
@@ -803,25 +806,225 @@ You can reshape your body with aberrant psionic energy. As a bonus action, you c
 
 You can combine multiple benefits by spending additional Psi Points. Once you use this feature, you can’t do so again until you finish a long rest.
 ### Wings of Will
-_14th-level Currentborn - Biotic Kin_
+_14th-level Currentborn - Biotic Body_
 Your biotic implants sprout psionic membranes. As a bonus action, you manifest a pair of semitranslucent wings of biotic energy. While active, you gain a flying speed equal to your walking speed and can hover. The wings last until you dismiss them as a bonus action, become incapacitated, or die. You cannot manifest wings while wearing medium or heavy armor (unless modified to accommodate them).
 ### Warping Implosion
 _18th-level Currentborn - Aberrant Mind_
 You unleash a psychic shockwave that tears reality apart. As an action, you teleport to an unoccupied space you can see within 120 ft. Then, each creature within 30 ft of the space you left must succeed on a Strength save (DC = 8 + Prof Bonus + FOC mod) or take 3d10 force damage and be pulled up to 20 ft toward that space. On a successful save, they take half damage and aren’t pulled. Once you use this feature, you can’t do so again until you finish a long rest **unless** you spend 5 Psi Points to reactivate it.
 ### Biotic Resonance
-_18th-level Currentborn - Biotic Kin_
+_18th-level Currentborn - Biotic Body_
 Your entire being hums with biotic energy. Whenever you use **Warping Implosion**, you can choose to spend 3 Psi Points to leave behind a resonant echo at your departure point. Each creature still within 30 ft of that point must make a Constitution save (DC = 8 + Prof Bonus + FOC mod) or be stunned until the end of its next turn and take an additional 2d10 force damage. On a successful save, they take half damage and aren’t stunned.
 ### Psionic Restoration
 _20th-level Currentborn - Aberrant Mind_
 At 20th level, you regain **10 Psi Points** whenever you finish a short rest.
-
 ---
 # Currentborn Manifestations List
 
 Below is a list of Manifestations (leveled psionic spells). 
 
 _Add Full List_
+---
+## Fixer Class Details
 
+Fixers are masters of information, influence, and underground networks—adept both at channeling raw Ætheric energy and breaching digital defenses. They blend savvy hacking, persuasive tactics, and arcane programming to manipulate systems, bolster allies, and exploit every angle in the neon-lit sprawl.
+
+---
+
+### Creating a Fixer
+
+**Hit Dice.** 1d8 per Fixer level  
+**Hit Points at 1st Level.** 8 + your Endurance modifier  
+**Hit Points at Higher Levels.** 1d8 (or 5) + your Endurance modifier per level after 1st
+
+**Proficiencies**
+- **Armor:** Light armor, medium armor, shields
+- **Weapons:** Simple weapons, hand crossbows
+- **Tools:** Hacking kit, one type of artisan’s tools of your choice
+- **Saving Throws:** Agility, Presence
+- **Skills:** Choose any three
+
+**Starting Equipment** (in addition to background)
+- Two simple or tech weapons
+- Æther pistol and 20 energy cells
+- Leather jacket or composite-weave armor
+- Hacking kit, Æther focus device (e.g. data pad, glove, tool, instrument), and a diplomat’s pack
+
+---
+
+### Fixer Table
+
+| Level | Prof Bonus | Features                                           | Hack Pts | Hacks Known | Cantrips Known | Routines Known | 1st | 2nd | 3rd | 4th | 5th |
+| ----- | ---------- | -------------------------------------------------- | -------- | ----------- | -------------- | -------------- | --- | --- | --- | --- | --- |
+| 1     | +2         | Æthercasting, Network Inspiration (d6), Hack Suite | 2        | 2           | 2              | 4              | 2   | —   | —   | —   | —   |
+| 2     | +2         | Jack of All Trades, Safehouse (d6)                 | 2        | 3           | 2              | 5              | 3   | —   | —   | —   | —   |
+| 3     | +2         | Fixer Specialization, Expertise                    | 2        | 4           | 2              | 6              | 4   | 2   | —   | —   | —   |
+| 4     | +2         | Ability Score Improvement                          | 3        | 5           | 3              | 7              | 4   | 3   | —   | —   | —   |
+| 5     | +3         | Network Inspiration (d8), Font of Innovation       | 3        | 6           | 3              | 8              | 4   | 3   | 2   | —   | —   |
+| 6     | +3         | Countermeasures, Specialization Feature            | 3        | 7           | 3              | 9              | 4   | 3   | 3   | —   | —   |
+| 7     | +3         | —                                                  | 3        | 8           | 3              | 10             | 4   | 3   | 3   | 1   | —   |
+| 8     | +3         | Ability Score Improvement                          | 4        | 9           | 3              | 11             | 4   | 3   | 3   | 2   | —   |
+| 9     | +4         | Safehouse (d8)                                     | 4        | 10          | 3              | 12             | 4   | 3   | 3   | 3   | 1   |
+| 10    | +4         | Network Field Intervene                            | 4        | 11          | 4              | 14             | 4   | 3   | 3   | 3   | 2   |
+| 11    | +4         | Specialization Feature                             | 4        | 12          | 4              | 15             | 4   | 3   | 3   | 3   | 2   |
+| 12    | +4         | Ability Score Improvement                          | 4        | 13          | 4              | 15             | 4   | 3   | 3   | 3   | 2   |
+| 13    | +5         | —                                                  | 5        | 14          | 4              | 16             | 4   | 3   | 3   | 3   | 2   |
+| 14    | +5         | Improved Network Field                             | 5        | 15          | 4              | 18             | 4   | 3   | 3   | 3   | 2   |
+| 15    | +5         | Network Inspiration (d10), Font of Innovation      | 5        | 16          | 4              | 19             | 4   | 3   | 3   | 3   | 2   |
+| 16    | +5         | Ability Score Improvement                          | 5        | 17          | 4              | 19             | 4   | 3   | 3   | 3   | 2   |
+| 17    | +6         | —                                                  | 6        | 18          | 4              | 20             | 4   | 3   | 3   | 3   | 3   |
+| 18    | +6         | Countermeasures (Advanced)                         | 6        | 19          | 4              | 22             | 4   | 3   | 3   | 3   | 3   |
+| 19    | +6         | Ability Score Improvement                          | 6        | 20          | 4              | 22             | 4   | 3   | 3   | 3   | 3   |
+| 20    | +6         | Master Fixer                                       | 6        | 21          | 4              | 22             | 4   | 3   | 3   | 3   | 3   |
+
+- **Hack Pts:** Equal to your proficiency bonus; regain on a short rest.
+- **Hacks Known:** Level + 1; you know this many hacking routines.
+- **Æther Cantrips & Routines:** As Bard base but flavored as Ætheric programs. Æther slots regain on a long rest.
+
+---
+### Multiclassing and the Fixer
+- **Prerequisite:** Presence 13
+    - **Gained Proficiencies:** Light armor, medium armor, shields, hacking kit, one artisan’s tool
+    - **Slots & Hack Pts:** Add half your Fixer levels (rounded up) when calculating Æther slots and Hack Pts.
+
+---
+### Æthercasting
+_1st-level Fixer_  
+You channel raw Ætheric code through your chosen Æther focus device.
+- **Spellcasting Ability:** Presence.
+- **Routines Known & Slots:** See table.
+- **Preparation:** Each long rest, prepare Presence modifier + half your Fixer level (rounded down, min. 1) routines.
+- **Æther Focus:** Any implement you choose—data pad, glove, tool, or instrument.
+
+---
+### Hack Suite
+_1st-level Fixer_  
+You’ve mastered digital incursions. You know **Hacks Known** hacking routines and can execute a prepared hack by spending 1 Hack Pt and taking an action.
+- **Preparation:** Each long rest, prepare Intelligence modifier + half your Fixer level (rounded down, min. 1) hacks.
+- **Hack Check:** Technology (Intelligence) check contested by device or network security.
+
+---
+### Network Inspiration
+_1st-level Fixer_  
+As a bonus action, choose one ally within 60 ft. who can perceive you. They gain an Inspiration die (d6) to add to an ability check, attack, saving throw, or hack attempt within 10 minutes.
+- **Uses:** Presence modifier (min. 1); regained on a long rest.
+- **Die Size:** d8 at 5th, d10 at 15th.
+
+---
+### Jack of All Trades
+
+_2nd-level Fixer_  
+Add half your proficiency bonus (rounded down) to any ability check without proficiency.
+
+---
+### Safehouse
+
+_2nd-level Fixer_  
+During a short rest, allies spending Hit Dice regain extra HP equal to your Inspiration die.
+
+---
+### Fixer Specialization
+
+_3rd-level Fixer_  
+Choose a specialty (e.g., Info Broker, Face, Shadow Runner). Gain tool proficiency and a 1st-level specialization feature. You gain additional specialization features at 6th and 14th levels.
+
+---
+### Expertise
+
+_3rd-level Fixer_  
+Double your proficiency bonus for two skill checks of your choice.
+
+---
+### Ability Score Improvement
+
+_4th, 8th, 12th, 16th, 19th levels_  
+Gain +2 to one ability or +1 to two (max 20).
+
+---
+### Advanced Protocol Effect
+_5th & 15th levels_  
+Your hacks and Æther routines ignore resistance and deal maximum effect against constructs, security systems, or wards up to increasing CR thresholds (½, 1, 2, 3, 4).
+
+---
+### Font of Innovation
+_5th-level Fixer_  
+Regain all uses of Network Inspiration on a short rest.
+
+---
+### Countermeasures
+_6th-level Fixer_  
+As an action, jam sensors or disrupt wards. Choose one:
+- **Signal Jam:** Allies within 30 ft. gain advantage on Stealth for 1 minute.
+- **Ward Disrupt:** Hostile constructs and sensors in 30 ft. have disadvantage on saves vs. your hacks/spells for 1 minute.  
+    _Use once per short rest (twice at 18th)._
+
+---
+### Network Field Intervene
+_10th-level Fixer_  
+Once per long rest, spend 3 Hack Pts and use an action to unleash a combined hack/Æther effect of up to 6th-level power—unlock high-security doors, erect a 20-ft Æther barrier, purge data, etc.
+
+---
+### Improved Network Field
+_14th-level Fixer_  
+When casting Field Intervene, split its effect: half as a hack, half as an Ætheric ward.
+
+---
+### Master Fixer
+_20th-level Fixer_
+- **Network Inspiration** recharges on a short rest.
+- When reduced to 0 HP, you may use your reaction and expend 1 Hack Pt to drop to 1 HP instead.
+---
+
+### Info Broker
+**Tool Proficiency.** You gain proficiency in **Data Lore** and **Tech Use**.
+
+#### Query Stream
+_3rd-level Info Broker feature_  
+You learn to tap hidden data veins at lightning speed. As a bonus action, you can spend 1 Hack Pt to grant one ally you can see within 30 ft. advantage on the next Data Lore, Investigation, or Hacking check they make before the end of their next turn.
+
+#### Info Surge
+_6th-level Info Broker feature_  
+You unleash a flood of actionable intelligence. As an action, spend 2 Hack Pts to choose up to six creatures of your choice within 30 ft. They gain advantage on all LOG- and FOC-based checks (Data Lore, Investigation, Hacking, Insight) for 1 minute.
+
+#### Omninet
+_14th-level Info Broker feature_  
+Your mastery of global networks lets you ask targeted questions of the datasphere. When you use **Network Field Intervene**, you can instead pose up to three questions to your GM—seeking factual information about people, places, or recent events within network range. The GM answers with what’s actually knowable.
+
+---
+
+### Face
+**Tool Proficiency.** You gain proficiency in **Persuasion** and **Deception**.
+
+#### Silver Tongue
+_3rd-level Face feature_  
+Your words weave protective cover for your allies. When you use **Network Inspiration** on a creature, you can also choose one enemy within 60 ft.: that enemy has disadvantage on Perception, Investigation, or Streetwise checks to locate or target the inspired ally until the end of your next turn.
+
+#### Digital Charm
+_6th-level Face feature_  
+You can weaponize your online persona. As an action, spend 2 Hack Pts to cast either **Charm Person** or **Suggestion** (FOC-based save) without expending a routine slot. You can target one creature (Charm Person) or up to two creatures that can hear you (Suggestion). Once you use this feature, you can’t use it again until you finish a short or long rest.
+
+#### Viral Persona
+_14th-level Face feature_  
+Your image floods every feed and firewall. When you use **Network Field Intervene**, you may instead project a full AR disguise over yourself and up to six allies within 30 ft. for 1 hour. While the disguise persists, you and your chosen allies are invisible to all electronic and magical sensors and appear as civilians or low-priority targets in any data scan. You must maintain concentration (as if casting a spell) to sustain it.
+
+---
+
+### Shadow Runner
+**Tool Proficiency.** You gain proficiency in **Stealth** and **Sleight of Hand**.
+
+#### Ghost Protocol
+_3rd-level Shadow Runner feature_  
+You slip through sensors like a phantom. When you spend 1 Hack Pt, you become undetectable by electronic or Ætheric sensors—no Hacking, Aethertech, or Perception check can locate you—for 1 minute. You also gain advantage on Stealth checks during this time.
+
+#### Silent Breach
+_6th-level Shadow Runner feature_  
+You strike without a trace. When you use a hack to bypass locks, alarms, or security, you can do so as part of your movement and leave no digital footprint. Once per short rest, you can also attempt any one hack at half its normal Hack Pt cost (rounded up).
+
+#### Phantom Override
+_14th-level Shadow Runner feature_  
+Your Field Intervene can reshape physical barriers. When you use **Network Field Intervene**, you may instead spend 3 Hack Pts to teleport yourself to any location you can see within 60 ft. You emerge even through locked doors or walls, and you immediately attempt a hack on the nearest door, safe, or security console (no action required).
+
+
+---
 ## Netrunner Class Details
 
 Netrunners are ghost-in-the-machine operatives—masters of stealth, subterfuge, and digital infiltration. They strike where systems are weakest, exploit vulnerabilities in both hardware and flesh, and vanish before anyone even knows they were there.
