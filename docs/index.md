@@ -2,12 +2,12 @@
 _(Draft v1.0 — Core Rules)_
 
 ---
-## Introduction
+# Introduction
 Welcome to the world of **CÆTHERPUNK 5E**—where neon, chrome, digital gods, and mind-bending powers shape reality in a city that never sleeps.
 
 In this game, you are an **Operator**: a renegade [[../5. Classes/Netrunner/Netrunner.md|Netrunner]], psychic outcast, chrome-plated samurai, nano-witch, info broker, or whatever archetype you imagine. Technology and magic have fused—whether through biohacking, code, psychic force, or pure will. **Æther** is the new "magic," and _programs_ are as deadly as any spell.
 
-## Core Themes
+# Core Themes
 
 - **Æther:** The invisible force channeling psychic/biotic effects.
 - **Programs:** Digital powers, AR hacks, and netrunners’ arsenal.
@@ -30,7 +30,7 @@ In this game, you are an **Operator**: a renegade [[../5. Classes/Netrunner/Netr
 12. Sample Lore
 13. Appendices
 
-## Chapter 2: Ability Scores & Skills
+# Ability Scores & Skills
 
 ### Attributes 
 
@@ -72,12 +72,12 @@ _Standard Point Buy: 78 points to distribute (8–18), max 2 at 18, only 1 may b
 | Tech Use        | LOG/MGT   | Using, repairing, or bypassing advanced tech     |
 
 ---
-## Species
+# Species
 Operators hail from every walk of life—organic, synthetic, uplifted, or bioengineered. Choose a species, then a variant/subspecies for further customization. Each variant grants a unique feature in addition to the base species traits.
 (In Progress fill in later)
 ---
 
-### Species Quick Table
+## Species Quick Table
 
 | Species| Example Variant | Trait Highlight|
 | --------------- | --------------- | --------------------------------------- |
@@ -95,8 +95,6 @@ Operators hail from every walk of life—organic, synthetic, uplifted, or bioeng
 _Each species picks a variant and gains its feature in addition to base species traits._
 
 ---
-
-### Example Species Writeups
 
 #### Human (Urbanite)
 
@@ -150,10 +148,10 @@ _Each species picks a variant and gains its feature in addition to base species 
 
 ---
 
-_For each new campaign, the GM may allow further variants, gene-modding, or synthetic customizations to fit the world. Expand with more variants as needed!_
+_Add full details later_
 
 ---
-## Backgrounds
+# Backgrounds
 In the cyberpunk/ætherpunk world, your background shapes your skills, social connections, and approach to the urban jungle. Backgrounds grant:
 
 - 2 skill proficiencies
@@ -163,7 +161,6 @@ In the cyberpunk/ætherpunk world, your background shapes your skills, social co
 - Starting equipment, contacts, or favor
 
 Choose one of the 22 sample backgrounds or work with your GM to craft your own.
-
 ---
 
 ### Background Table
@@ -193,11 +190,9 @@ Choose one of the 22 sample backgrounds or work with your GM to craft your own.
 |Corporate Operative|Investigation, LOGimidation|Clean Records|+2 LOG, +1 PRES|
 |Biohacker LOGern|Medicine, Arcana|Lab Network|+2 LOG, +1 FOC|
 
-
 ---
 
 ### Custom Background Creation
-
 To create your own background:
 
 - Pick 2 skills (from the Skills list)
@@ -208,11 +203,11 @@ To create your own background:
 
 
 ---
-## Classes
+# Classes
 In Cætherpunk 5E, your class determines your core role, archetype, and how you shape the world through technology, aether, and the street. Each class includes advancement tables, core features, and unique subclasses to further customize your Operator.
 
 Choose one of the following classes, then select your subclass at the appropriate level (see class file for details).
-### Classes Overview Table
+## Classes Overview Table
 
 | Class (Archetype)          | Summary (Role/Theme)                                         | Subclasses                                                                                                                           | Closest 5E       |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------- |
@@ -1449,7 +1444,7 @@ Your nanites adapt in real time. While you have at least one Protocol Slot remai
 
 ---
 
-## Feats
+# Feats
 In Cætherpunk 5E, feats reflect not only extraordinary talent or training, but also cybernetic upgrades, psychic awakenings, digital mastery, street-earned wisdom, and more. Feats help further customize your Operator, allowing you to push the limits of technology, æther, and grit.
 
 ---
