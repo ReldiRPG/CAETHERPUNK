@@ -1456,20 +1456,20 @@ In Cætherpunk 5E, feats reflect not only extraordinary talent or training, but 
 | Aetheric Adept       | —                              | Gain an aetheric (psychic/biotic) power and minor ritual.                     |
 | Aetheric Overclock   | Aetheric Adept or spellcasting | Use two aetheric powers per turn, but suffer exhaustion after.                |
 | Bio-Resilience       | END 13+                        | Resistance to disease, poison, and nano-toxins.                               |
-| Bio-Hacker           | INT 13+                        | Proficiency with Medtech & Techcraft; craft nano-injectors & healing stims.   |
-| [[Chrome Brawler.md|Chrome Brawler]]   | STR 13+                        | Unarmed strikes deal 1d6; gain cybernetic arm upgrade slot.                   |
+| Bio-Hacker           | LOG 13+                        | Proficiency with Medtech & Techcraft; craft nano-injectors & healing stims.   |
+| Chrome Brawler       | MGT 13+                        | Unarmed strikes deal 1d6; gain cybernetic arm upgrade slot.                   |
 | Chrome Jockey        | Chrome Brawler or Tech Use     | Proficiency with vehicles; overdrive for extra speed/damage.                  |
 | Circuit Adapt        | FOC 13+                        | Use ritual devices, bypass security, and channel digital miracles.            |
 | Combat Drone Handler | Tech Use proficiency           | Control two drones at once; enhanced commands.                                |
 | Connected            | Streetwise proficiency         | Always find a fixer, fence, or contact in any city district.                  |
-| Cyberneticist        | INT 15+                        | Install/repair cyberware; increase max chrome slots by 1.                     |
+| Cyberneticist        | LOG 15+                        | Install/repair cyberware; increase max chrome slots by 1.                     |
 | Data Ghost           | Hacking proficiency            | Erase your presence from digital networks after each job.                     |
 | Deadswitch           | Street Samurai/Ops Agent       | Auto-retaliate on being dropped to 0 HP once per day.                         |
-| Digital Savant       | INT 13+                        | Advantage on Investigation and Hacking checks.                                |
+| Digital Savant       | LOG 13+                        | Advantage on Investigation and Hacking checks.                                |
 | Dual Wielder         | AGI 13+                        | Wield two weapons, no penalty; +1 AC while dual-wielding.                     |
 | Empathic Link        | FOC 13+                        | Telepathic bond with an ally or drone; share senses for 1 min/rest.           |
 | Explosive Specialist | Techcraft proficiency          | Craft grenades, breaching charges, and set traps.                             |
-| Face Changer         | Changeling or Synth            | Shapeshift (voice, face, body type) once per short rest.                      |
+| Face Changer         | Changeling, Synth, Face Augme  | Shapeshift (voice, face, body type) once per short rest.                      |
 | Fast Talker          | PRES 13+                       | Advantage on Persuasion and Deception checks in urban settings.               |
 | Gridwalker           | Netrunner or Aethertech        | Walk AR/VR spaces as easily as the real world; avoid digital traps.           |
 | Gun Maestro          | Proficiency with firearms      | Ignore cover with ranged attacks; reload as bonus action.                     |
@@ -1492,7 +1492,7 @@ In Cætherpunk 5E, feats reflect not only extraordinary talent or training, but 
 | Tech Whisperer       | Tech Use proficiency           | Repair, analyze, or upgrade any tech as a bonus action.                       |
 | Tough as Chrome      | END 13+, Chrome Brawler        | +2 HP/level, advantage vs. being stunned or paralyzed.                        |
 | Urban Survivalist    | Survival proficiency           | Advantage on Survival in cities; find shelter, food, or lost tech.            |
-| Viral Savant         | Pact: Viral Plague             | Immunity to poison/nano; infect tech with custom virus.                       |
+| Viral Savant         | Hacking Proficency, LOG 15+    | Infect tech with custom virus.                                                |
 | Weapon Specialist    | Proficiency with any weapon    | Choose one weapon type: +1 to hit, ignore disadvantage in adverse conditions. |
 
 ---
