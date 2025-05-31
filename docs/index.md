@@ -1317,6 +1317,8 @@ Where corporate med-evacs won’t go, Ripperdocs answer the call. In shattered h
 | 18    | +6         | Trauma Network (remote heal)                     | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
 | 19    | +6         | Ability Score Improvement                        | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20    | +6         | Master Surgeon (max heals, extra injector)       | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+
+---
 ### Multiclassing and the Ripperdoc
 - **Prerequisite.** Focus 13
 - **Gained Proficiencies.** Light armor, shields, medical kit, chosen artisan’s tools
