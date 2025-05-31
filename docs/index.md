@@ -1504,6 +1504,228 @@ In Cætherpunk 5E, feats reflect not only extraordinary talent or training, but 
 _This list is not exhaustive; feel free to expand, reskin, or add feats to fit your table and campaign!_
 
 ---
+---
+---
+
+
+# Cætherpunk Combat Mechanics
+
+Below is a summary of combat rules, closely mirroring 5E SRD mechanics but reskinned for a Cætherpunk setting. Where appropriate, familiar terminology is replaced with Cætherpunk equivalents. Unless noted otherwise, all rules function identically to 5E.
+
+---
+## 1. Core Concepts
+
+- **Vitality (HP):** Represents a character’s health and endurance. Typically tracked as a number; when reduced to 0, the character is incapacitated or “downed.”
+- **Defense Rating (DR):** Replaces Armor Class. A target’s DR is what an attacker must equal or exceed on a d20 + modifiers to hit.
+- **Proficiency Bonus (+P):** Unchanged from 5E; scales by character level (see 5E SRD).
+- **Skill/Attribute Checks:** Whenever a rule calls for an ability check, roll d20 + relevant Ability Modifier + P (if proficient).
+- **Advantage/Disadvantage:** Unchanged—roll 2d20 and take higher (advantage) or lower (disadvantage).
+
+---
+
+## 2. Combat Flow
+### 2.1. Encounter Setup
+
+1. **Determine Surprise:** The GM decides if any side is surprised (via Stealth vs. Perception or other circumstances). A surprised creature:
+    - Cannot take actions, reactions, or movement on its first turn.
+    - Regains normal function beginning on its second turn in initiative.
+2. **Roll Initiative:**
+    - Each combatant rolls **d20 + Agility Modifier (AGI)**.
+    - Record initiative order from highest to lowest. Ties are broken by higher AGI; if still tied, roll off.
+3. **Establish Positions & Cover:**
+    - Map out the environment (streets, corridors, rooftops, etc.).
+    - Mark cover zones (half cover, three-quarters cover, full cover).
+
+### 2.2. Round Structure
+
+- Combat is divided into **Rounds**. Each Round, every combatant takes one **Turn** in initiative order.
+
+#### On Your Turn:
+
+1. **Movement:** You can move up to your speed (feet) in any combination of directions. Moving through difficult terrain (rubble, top‐deck wiring, collapsed scaffolds) costs extra (5 ft for each 1 ft of movement).
+2. **Action:** Choose one:
+    - **Attack:** Make one melee or ranged weapon attack (or multiple if you have Extra Attack).
+    - **Hacking Attack (if a Netrunner):** Use an Attack action to run a Hack Routine (e.g., “Overload Circuit”) against a target’s systems (see class features).
+    - **Æther Channel (if able):** Cast a Canticle, Minor Script, or similar spell.
+    - **Use Device:** Activate a technological gadget (grenade, stim‐injector, drone remote, etc.).
+    - **Dash:** Double your movement for the turn (gain extra movement equal to your Speed).
+    - **Disengage:** Your movement does not provoke Opportunity Attacks this turn.
+    - **Dodge:** Until the start of your next turn, attacks against you have Disadvantage, and you gain Advantage on all Agility (AGI) saving throws.
+    - **Help:** Grant Advantage on the next Attack roll by an ally against a target within 5 ft of you, or grant Advantage to an ally’s Tech or Skill check.
+    - **Hide:** Make a Stealth (AGI) check. If successful, you become Hidden (advantage on your next Attack; creatures cannot see you unless they succeed on a Perception check).
+    - **Search:** Make an Investigation (LOG) or Perception (FOC) check to locate hidden enemies, traps, or secret panels.
+    - **Use Object:** Interact with an object that requires more than a free interaction (e.g., pry open a locked door, recharge a gadget, swap cyber‐mod attachments).
+3. **Bonus Action (if available):** Certain features (e.g., some class features) allow a second, smaller action.
+4. **Reaction (on other turns):** You can take one Reaction per Round when its trigger occurs (e.g., opportunity attack).
+
+### 2.3. Opportunity Attacks
+
+- Provoked when a hostile creature you can see moves out of your melee range without Disengaging.
+- Use your Reaction to make one melee Attack vs. their DR.
+
+---
+
+## 3. Attack Rolls & Defense Rating
+### 3.1. Making an Attack
+
+- **Roll:** d20 + Ability Modifier + Proficiency Bonus (if proficient with weapon).
+    - **Melee Weapons:** Use Might (MGT) Modifier unless the weapon has the Finesse property—in which case, you may use Agility (AGI).
+    - **Ranged Weapons:** Use Agility (AGI) Modifier.
+    - **Tech Weapons (e.g., smartguns, energy rifles):** Usually use Agility (AGI), but some specialized weapons (heavy railguns, power fists) use Might (MGT). If a weapon has the “Cybertech” tag, apply relevant Tech Use (LOG/MGT) to modify accuracy—DM may require a Tech Use check for particularly complex exploits (e.g., auto‐targeting pulse cannons).
+    - **Ætheric Attacks (Canticles):** Use the spellcasting Ability Modifier, plus Proficiency if the caster’s class grants it.
+    - **Hacking Attacks:** Netrunners roll d20 + Logic (LOG) Modifier + Proficiency Bonus (if proficient in Hacking); compare to target’s **System Firewall Rating** (analogous to DR).
+- **Hit if:** Attack roll ≥ target’s Defense Rating (DR).
+
+### 3.2. Defense Rating (DR)
+
+- **Base DR:** 10 + Agility (AGI) Modifier.
+- **Armor/Armor Modules:** Armor grants a flat bonus to DR. Different armor types (light, medium, heavy) add a fixed amount. Cybernetic enhancements or active defense implants can further modify DR (see §6.2).
+- **Cover:** A target behind cover adds to its DR:
+    - **Half Cover:** +2 DR
+    - **Three-Quarters Cover:** +5 DR
+    - **Full Cover:** Cannot be targeted directly by attacks; use area effects or repositioning.
+- **Active Tech Defenses:** Some augmentations grant reactions (e.g., “Nano‐Shield” can give +2 DR against one incoming attack), at the GM’s discretion.
+
+---
+
+## 4. Damage & Healing
+### 4.1. Damage Types
+- **Ballistic:** Piercing/slashing energy from kinetic weapons (e.g., firearms, smartguns).
+- **Energy:** Laser, plasma, electric shocks from energy weapons or Ætheric blasts.
+- **Melee:** Physical cuts, bashes, or slams (blades, cyber‐fists).
+- **Psychic:** Psionic or Ætheric mental assault, often from Aberrant Mind or Psychic Blasts.
+- **Necrotic/Poison:** From viral plagues, bio‐chemical agents, or undead‐style Ætheric drain.
+- **Radiant:** Divine or EMP‐like bursts, often from Lawbringer/Paladin auras or high‐end tech bursts that “purify” circuits.
+- 
+### 4.2. Applying Damage
+
+1. **Roll damage dice** as indicated by weapon, ability, or spell.
+2. **Add Damage Modifiers** (e.g., Might for melee, Agility for ranged, Ability Mod for specific features).
+3. **Subtract any Resistance**: Some armor, cyber‐implants, or class features grant resistance to specific damage types (take half damage).
+4. **Subtract total from Vitality (HP)**. If HP ≤ 0, the character falls unconscious and begins making death (or “Shutdown”) saving throws.
+
+### 4.3. Healing and Recovery
+- **Medtech Kits (First Aid):** As an Action, expend a Medtech Kit to restore 1d8 + LOG (Medtech) HP.
+- **Nano‐Symbiotes:** As a Bonus Action, a Biohacker can expend a limited resource (nano swarm) to restore HP equal to 1d6 + END.
+- **Ætheric Healing (Lay on Hands / Canticle of Restoration):** Works identically to 5E Lay on Hands or Cure Wounds, but called “Nano‐Canticle” or “Protocol: Heal.” Scale by class level.
+- **Short Rest (Recharge):** After 1–10 minutes of downtime, a character can spend Hit Dice (HD) to regain HP (roll HD, add CON (END) modifier). Classes regain class‐specific resources (e.g., Hack Points, Sorcery Points) on a Short Rest.
+- **Long Rest:** After ~8 hours of sleep or meditation, restore all HP, replenish spell slots/Æther Slots, Hack Points/battery, and daily class features.
+
+---
+
+## 5. Weapons & Armor
+### 5.1. Weapon Categories
+
+Weapons have these attributes:
+- **Damage:** Listed as dice + relevant Ability Modifier.
+- **Range:** Melee weapons have a “reach” (typically 5 ft). Ranged/Tech weapons have a normal range and long range (beyond normal but with Disadvantage).
+- **Properties:** Finesse, Light, Heavy, Two‐handed, Thrown, Reload (magazine size), Burst (AOE), Cybertech (requires Tech Use to unlock special modes), etc.
+
+| Weapon Type          | Damage                         | Range                     | Properties                                                                                                     |
+| -------------------- | ------------------------------ | ------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Pistol**           | 1d8 Ballistic                  | 30 ft/90 ft               | Light, Reload (12), Two‐handed optional                                                                        |
+| **SMG**              | 1d8 Ballistic × 3 (burst mode) | 60 ft/180 ft              | Reload (30), Burst (roles ×3, apply modifiers once)                                                            |
+| **Assault Rifle**    | 1d10 Ballistic                 | 80 ft/240 ft              | Reload (30), Two‐handed                                                                                        |
+| **Shotgun**          | 2d6 Ballistic (spread)         | 30 ft/60 ft               | Reload (6), Two‐handed, Spread: All targets in 5 ft radius make DR check at Disadvantage to avoid full damage. |
+| **Sniper Rifle**     | 2d12 Ballistic                 | 120 ft/360 ft             | Heavy, Two‐handed, Reload (5), Scope: +2 to Attack if stationary                                               |
+| **Energy Pistol**    | 1d8 Energy                     | 40 ft/120 ft              | Finesse, Reload (8), Overheat: On a natural 1 to hit, deals 1d4 self‐damage                                    |
+| **Plasma Cutter**    | 2d8 Energy                     | 60 ft/180 ft              | Reload (5), Overcharge: Spend extra Action to add +1d8 damage (max twice per combat)                           |
+| **Cyber Blade**      | 1d6 Melee + 1d6 Energy         | 5 ft                      | Finesse, Light, Versatile (1d8)                                                                                |
+| **Mono‐Katana**      | 1d10 Energy                    | 5 ft                      | Finesse, Versatile (1d12), Superior Silence (no trace on proper strike)                                        |
+| **Combat Knife**     | 1d4 Melee                      | 5 ft                      | Light, Thrown (range 20 ft/60 ft)                                                                              |
+| **Power Fist**       | 1d8 Bludgeoning                | 5 ft                      | Heavy, Two‐handed, Cybertech (can punch through walls—requires FOC check)                                      |
+| Mono-Wire            | 1d6 Energy                     | 10 ft                     | Finesse, Light, On hit upload Minor Exploit that completes at the end of their turn.                           |
+| **Tactical Grenade** | 2d6 + 1d6 Chemical             | 20 ft (blast 5 ft radius) | Thrown, Area Effect, Obscuring: creates smoke (heavily obscured)                                               |
+
+> **Burst Fire Note:** When using a Burst‐capable weapon, you expend one full Action to fire a 3‐round burst. Roll three separate Attack rolls at the same target (applying modifiers to each). If any hit, apply total damage (sum of 3 damage rolls) to that target. If no target, you can split the burst between two adjacent targets (roll 3 attacks total, allocate as desired).
+
+### 5.2. Armor Types
+Armor provides a **flat bonus to Defense Rating (DR)**. Characters can wear one armor type and can equip a Shield for an additional +2 DR. Shields may be **Energy Shields** (powered by a backpack battery; +2 DR for 10 minutes, 1 charge) or **Light Tactical Shield** (+2 DR, no power required).
+
+|Armor Category|DR Bonus|Stealth Imp.|Notes|
+|---|---|---|---|
+|**Cloth Chameleon Suit**|+0|No|Skin‐tight, no DR bonus but +2 to Stealth if crouching in shadows|
+|**Kevlar Vest**|+2|Yes (–1)|Light, flexible|
+|**Tactical Armor**|+4|No|Medium; max AGI modifier to DR +2|
+|**Cyber‐Chassis**|+6|No|Heavy; max AGI modifier to DR +0; includes integrated power packs for weapon attachments|
+|**Full Combat Armor**|+8|No (–2)|Powered exoskeleton; STR (MGT) + 1; costs extra upkeep|
+|**Energy Field Suit**|+12 (variable)|No|Generates an energy barrier; requires 2 power cells (recharge on Long Rest). DR using Field = 10 + AGI Mod + Armor Bonus.|
+
+---
+
+## 6. Special Combat Options
+### 6.1. Cover & Positioning
+
+- **Half Cover (+2 DR):** Behind low walls, overturned vehicles, crates.
+- **Three-Quarters Cover (+5 DR):** Behind thick concrete barriers, armored shields, large crates.
+- **Full Cover (No Direct Target):** When completely behind a barrier; can only be targeted by area effects (grenades, burst fire).
+- **Elevation:** Being at higher elevation grants +1 to Attack Rolls; attackers from below have Disadvantage on upward attacks beyond 10 ft.
+
+### 6.2. Active Defense Systems
+1. **Deflective Nanoshield (Reaction):** As a Reaction when hit by a melee or ranged attack, you can activate a nanite surge to gain +2 DR against that one attack. Recharge on a Short Rest.
+2. **Kinetic Barrier (Reaction):** When hit by a ballistic attack, you can spend 1 Tech Use (LOG) check (DC 15) to reduce damage by half.
+3. **EMP Pulse (Action):** Emit a 5‐ft radius EMP blast; all cybernetic/tech devices within radius must succeed on a Tech Saving Throw (DC 15) or be disabled for 1 turn. One use per Short Rest.
+
+### 6.3. Hacking in Combat (Netrunner)
+- **Hack Point (HPt) Pool:** Netrunners use HPt in place of Æther Slots. HPt regenerate on Short Rest or via battery packs.
+- **Hack Routines (Exploits):** Functions like spells. Each has a level (1–5) and costs HPt equal to the level. You must have the exploit “loaded” in your Cyberdeck (Neural Interface).
+    - **Load Exploit (Prep):** As part of a Short Rest, load a number of Exploits into your Neural Interface equal to your LOG+P (max list known).
+- **Hack Actions:**
+    1. **System Intrusion (Attack Action):** Make a Hacking Attack roll (d20 + LOG Mod + P) vs. target’s **Firewall Rating (FR)** (usually equal to DR or specialized for cyber‐targets). On hit, you inflict “System Shock”—target is Stunned or their Tech‐dependent weapons shut down for 1 turn.
+    2. **Overload Circuit (Attack Action):** Cost: 1 HPt. Target must make a Tech Saving Throw (DC 8 + LOG Mod + P). On fail, target takes 2d6 + LOG Energy damage, and their DR is reduced by 2 for 1 turn.
+    3. **Data Spike (Bonus Action):** Cost: 1 HPt. Make a Hacking Attack vs. FR. On hit, deal 1d4 Psychic damage and mark target; marked targets take +2 to all Attack Rolls and Ability Checks made by you until end of your next turn.
+    4. **Firewall Ghost (Reaction):** When an enemy attempts to hack or EMP you, roll d20 + LOG Mod + P. On a tie or higher vs. their hacking roll, you deflect or absorb the effect. Once used per Round.
+- **Countermeasures & Defenses:**
+    - **Encryption Layer (Reaction):** Spend 1 HPt when targeted by a Hack Attack; impose Disadvantage on their roll.
+    - **Dump Data (Action):** If your Neural Interface is compromised, as an Action, wipe your active cache—automatically end all ongoing hacks on you; can only be used once per Short Rest.
+
+---
+
+## 7. Conditions & Status Effects
+All standard 5E conditions apply, but with Cætherpunk flavor:
+
+| Condition         | Effect / Flavor                                                                                                                                                  |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Blinded**       | Can’t see; Attack Rolls against you have Advantage; your Attacks have Disadvantage. “Your visual implants flicker off.”                                          |
+| **Charmed**       | Cannot attack charmer; charmer has Advantage on social checks vs. you. “Your neural pathways misfire in the presence of that persona.”                           |
+| **Deafened**      | Can’t hear; automatically fail Auditory Perception. “Your audio implants are scrambled.”                                                                         |
+| **Frightened**    | Disadvantage on Ability Checks and Attack Rolls while you “see” threat; can’t move closer if able. “Your fear circuits overload.”                                |
+| **Grappled**      | Speed becomes 0; can’t benefit from bonuses to speed. “Mag‐tethers or cyber‐clamps hold you.”                                                                    |
+| **Incapacitated** | Can’t take Actions or Reactions; can’t move. “Systems are offline or overwhelmed.”                                                                               |
+| **Paralyzed**     | Incapacitated, Speed = 0, automatically fail STR/DEX Saves; Attacks against you are critical hits if within 5 ft. “Neural locks shut down your motor functions.” |
+| **Poisoned**      | Disadvantage on Attack Rolls and Ability Checks. “Bio‐toxin in your bloodstream.”                                                                                |
+| **Prone**         | Only beneficial Attack Rolls with Advantage from within 5 ft; movement costs to stand up. “You’re on the ground; your servomotors must restart.”                 |
+| **Restrained**    | Speed = 0, Disadvantage on STR/DEX Checks & Saves; Attack Rolls vs. you have Advantage. “Your cyber‐joints are locked.”                                          |
+| **Stunned**       | Incapacitated, can’t move/speak, Rolls automatically fail, Attacks vs. you have Advantage. “Circuit overload freezes your system.”                               |
+| **Unconscious**   | Incapacitated, can’t move/speak, rolls fail STR/DEX Saves, Attacks vs. you are critical hits if attacker within 5 ft. “Your vitals are at zero.”                 |
+
+---
+
+## 8. Difficulty Checks & Skills in Combat
+- **Skill Challenges (DC 10–30):** Use when bypassing security doors, hacking terminals under fire, or performing advanced weapon techniques.
+- **Covering Fire (Team Tactics):** One ally can use Help to grant Advantage on Attack Rolls vs. target if they occupy adjacent, flanking positions.
+- **Suppressive Fire:** As an Attack Action with a rapid‐fire weapon (SMG, Assault Rifle), you can lay down suppressive rounds into a 20 ft cone. All enemies in the cone must succeed on a DEX (AGI) Save (DC 8 + P + AGI Mod) or drop Prone and have their movement cut in half until end of their next turn.
+- **Overwatch (Reaction):** As a Bonus Action, enter Overwatch mode. Until the start of your next turn, if a hostile creature enters your weapon’s normal range and you have LoS, you can use your Reaction to make a single attack.
+
+---
+
+## 9. Optional/Advanced Rules
+
+- **Burst Fire Suppression:** See §5.1 for mechanics.
+- **Hacking Overwatch:** Netrunners in Cover can set a firewall Overwatch: Reaction to attempt to jam any enemy drone entering their line of sight.
+- **Aerial Combat:** If flying (drone, jetpack, Ætheric Flight), treat vertical movement separately; movement uses a single pool (e.g., 30 ft of flying). Attacks from above grant +1 to hit; target has Disadvantage if also flying and higher altitude.
+- **Critical Fail/System Crash:** On a natural 1 in a hacking check, the Netrunner’s Neural Interface glitches—unable to run further hacks for 1 turn and take 1d4 Psychic damage.
+- **Environmental Hazards:** Electrified floors, radiation zones, zero‐gravity—treat as Dangerous Terrain (costs double movement) and/or forcing periodic Saving Throws (AGI or lose balance, prone, or take damage).
+
+---
+
+### Summary
+
+Cætherpunk combat follows the familiar 5E framework—d20 Attack rolls vs. Defense Rating, Vitality for HP, and standard Action/Bonus Action/Reaction economy—while swapping swords for smartguns, spells for Hacks and Canticles, and armor for nano‐armor or powered exoskeletons. This reskin retains 5E’s balance and flow while immersing characters in a high‐tech, Æther‐infused urban battlefield.
+
+---
+---
+---
 
 ***...TO BE CONTINUED...***
 
