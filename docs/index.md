@@ -5,7 +5,7 @@ _(Draft v1.0 — Core Rules)_
 # Introduction
 Welcome to the world of **CÆTHERPUNK 5E**—where neon, chrome, digital gods, and mind-bending powers shape reality in a city that never sleeps.
 
-In this game, you are an **Operator**: a renegade [[../5. Classes/Netrunner/Netrunner.md|Netrunner]], psychic outcast, chrome-plated samurai, nano-witch, info broker, or whatever archetype you imagine. Technology and magic have fused—whether through biohacking, code, psychic force, or pure will. **Æther** is the new "magic," and _programs_ are as deadly as any spell.
+In this game, you are an **Operator**: a renegade Netrunner, psychic outcast, chrome-plated samurai, nano-witch, info broker, or whatever archetype you imagine. Technology and magic have fused—whether through biohacking, code, psychic force, or pure will. **Æther** is the new "magic," and _programs_ are as deadly as any spell.
 
 # Core Themes
 
