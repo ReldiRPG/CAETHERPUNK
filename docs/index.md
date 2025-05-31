@@ -654,6 +654,7 @@ Your answers shape how you wield—and how you fear—your power.
 |18|+6|18|Psionic Origin Feature|6|15|4|3|3|3|3|
 |19|+6|19|Ability Score Improvement|6|15|4|3|3|3|3|
 |20|+6|20|Psionic Restoration|6|15|4|3|3|3|3|
+
 ### Class Features
 
 ### Hit Points
@@ -868,6 +869,7 @@ Netrunners are ghost-in-the-machine operatives—masters of stealth, subterfuge,
 |  18   |     +6     |     9d6     |          3           |      6      |     19      |          ″          | Network Mask                       |
 |  19   |     +6     |    10d6     |          3           |      6      |     20      |          ″          | Ability Score Improvement          |
 |  20   |     +6     |    10d6     |          3           |      6      |     21      |          ″          | System Override                    |
+
 - **Data Strike:** Extra damage on a weapon attack or successful hack, as shown.
 - **Minor Exploits:** Level-0 hacks at-will, like cantrips.
 - **Hack Points (HPt):** Spend to run Hack Routines; equal to Prof Bonus, recharge on short rest.
